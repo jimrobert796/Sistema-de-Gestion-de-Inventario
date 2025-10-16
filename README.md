@@ -1,1 +1,1 @@
-# Sistema-de-Gesti-n-de-Inventario
+# Sistema-de-Gestion-de-Inventario
